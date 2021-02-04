@@ -1,13 +1,13 @@
 import './App.css';
-import Header from './Header'
+import Header from "./Header";
 
 function App() {
   return (
     <Header/>
-    // {/* Header -> NavBar | subheader */}
-    // {/* Sidebar */}
-    // {/* Main */}
-    // {/* BottomSection */}
+    //  Header -> NavBar | subheader
+    //  Sidebar
+    //  Main
+    //  BottomSection
   );
 }
 
